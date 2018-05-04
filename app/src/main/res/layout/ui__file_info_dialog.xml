@@ -103,5 +103,4 @@
             android:textSize="15sp"
             tools:text="/sdcard/Documents/somewhere" />
     </LinearLayout>
-
 </RelativeLayout>
