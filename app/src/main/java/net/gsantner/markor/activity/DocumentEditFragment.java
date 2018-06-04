@@ -176,6 +176,10 @@ public class DocumentEditFragment extends GsFragmentBase implements TextFormat.T
                 saveDocument();
                 return true;
             }
+            case R.id.action_sort: {
+
+                return true;
+            }
         }
         return super.onOptionsItemSelected(item);
     }
